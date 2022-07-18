@@ -96,6 +96,3 @@ for idx, sol in enumerate(myhen.results_above):
     print(sol.loc['cost'])
     print()
 ```
-
-## 2) Water Recycle Networks (WReNs)
-To be added.
